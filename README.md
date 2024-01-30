@@ -31,7 +31,7 @@ This Python notebook provides tools and techniques for anonymizing sensitive inf
 
 1.  Clone the repository to your local machine:
 
-       git clone https://github.com/rakiiibul/LF_Anonymization.git
+       https://github.com/rakiiibul/LF_Anonymization.git
     
 3.  Launch Jupyter Notebook or JupyterLab and open the anonymization notebook file (`anonymization.ipynb`).
 
