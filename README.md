@@ -6,7 +6,7 @@ This Python notebook provides tools and techniques for anonymizing sensitive inf
 
 <p align="center">
 
-<a href="https://github.com/rakiiibul/LF_Anonymization/issues">Report Bug</a> · <a href="https://github.com/rakiiibul/LF_Anonymization/issues">Request Feature</a>
+<a href="https://github.com/rakiiibul/LF_Anonymization/issues">Report Bug</a> Â· <a href="https://github.com/rakiiibul/LF_Anonymization/issues">Request Feature</a>
 
 </p>
 
@@ -31,15 +31,24 @@ This Python notebook provides tools and techniques for anonymizing sensitive inf
 
 1.  Clone the repository to your local machine:
 
-        git clone https://github.com/rakiiibul/LF_Anonymization.git
-
-2.  Launch Jupyter Notebook or JupyterLab and open the anonymization notebook file (`anonymization.ipynb`).
+       git clone https://github.com/rakiiibul/LF_Anonymization.git
+    
+3.  Launch Jupyter Notebook or JupyterLab and open the anonymization notebook file (`anonymization.ipynb`).
 
 ## Example
 
-1.  Original images <img src="img/img1.jpg" alt="example1" width="600" height="450"/></a> <img src="img/img2.jpg" alt="example2" width="600" height="450"/></a>
+1.  Original images
 
-2.  Anonymized Images <img src="img/img1_ano.jpg" alt="example1" width="600" height="450"/></a> <img src="img/img2_ano.jpg" alt="example2" width="600" height="450"/></a>
+
+ <img src="img/img1.jpg" alt="example1" width="600" height="450"/></a> 
+  <img src="img/img2.jpg" alt="example2" width="600" height="450"/></a>
+ 
+
+2.  Anonymized Images
+
+    <img src="img/img1_ano.jpg" alt="example1" width="600" height="450"/></a>
+    <img src="img/img2_ano.jpg" alt="example2" width="600" height="450"/></a>
+
 
 ## Usage
 
@@ -54,7 +63,9 @@ This Python notebook provides tools and techniques for anonymizing sensitive inf
 -   This tool is intended for research and educational purposes only.
 -   Users are responsible for ensuring compliance with privacy regulations and obtaining appropriate consent for anonymizing and sharing image data.
 -   The effectiveness of anonymization techniques may vary depending on image quality, resolution, and other factors.
--   The images are downloaded from open source website. <https://ar.inspiredpencil.com/pictures-2023/pedestrian-crossing-street> <https://www.nj.com/news/2012/07/2010_law_to_reduce_pedestrian.html>
+-   The images are downloaded from open source website.
+1. <https://ar.inspiredpencil.com/pictures-2023/pedestrian-crossing-street>
+2. <https://www.nj.com/news/2012/07/2010_law_to_reduce_pedestrian.html>
 
 ## Contributing
 
